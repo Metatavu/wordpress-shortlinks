@@ -20,7 +20,7 @@
       $url = get_post_meta($id, "url", true);
       if ($url) {
         wp_redirect($url);
-         exit;
+        exit;
       }
     } 
   });  
