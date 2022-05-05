@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-04-22 13:06+0300\n"
+"PO-Revision-Date: 2022-04-22 13:21+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: shortlinks/acf.php:10
+msgid "Path"
+msgstr "Polku"
+
+#: shortlinks/acf.php:15
+msgid "Path of shortlink (e.g. /path)"
+msgstr "Lyhytosoitteen polku"
+
+#: shortlinks/acf.php:23
+msgid "URL"
+msgstr "URL"
+
+#: shortlinks/acf.php:28
+msgid "Address where shortlink points to (e.g. https://www.example.com/some/page)"
+msgstr "Osoite, johon lyhytosoite viittaa"
+
+#: shortlinks/shortlinks-type.php:11
+msgid "Header Shortlinks"
+msgstr "Otsikon lyhytosoitteet"
+
+#: shortlinks/shortlinks-type.php:12
+msgid "Header Shortlink"
+msgstr "Otsikon lyhytosoite"
+
+#: shortlinks/shortlinks-type.php:13
+msgid "Add Shortlink"
+msgstr "Lisää lyhytosoite"
+
+#: shortlinks/shortlinks-type.php:14
+msgid "Add New Shortlink"
+msgstr "Lisää uusi lyhytosoite"
+
+#: shortlinks/shortlinks-type.php:15
+msgid "Edit Shortlink"
+msgstr "Muokkaa lyhytosoitetta"
+
+#: shortlinks/shortlinks-type.php:16
+msgid "New Shortlink"
+msgstr "Uusi lyhytosoite"
+
+#: shortlinks/shortlinks-type.php:17
+msgid "View Shortlink"
+msgstr "Näytä lyhytosoite"
+
+#: shortlinks/shortlinks-type.php:18
+msgid "Search Shortlinks"
+msgstr "Etsi lyhytosoitetta"
+
+#: shortlinks/shortlinks-type.php:19
+msgid "No Shortlinks found"
+msgstr "Lyhytosoitteita ei löytynyt"
+
+#: shortlinks/shortlinks-type.php:20
+msgid "No Shortlinks in trash"
+msgstr "Ei lyhytosoitteita roskakorissa"
+
+#: shortlinks/shortlinks-type.php:21 shortlinks/shortlinks-type.php:22
+msgid "Shortlinks"
+msgstr "Lyhytosoitteet"
