@@ -14,8 +14,9 @@
         'meta_key'=> 'path',
         'meta_value'=> $path
       ];
-      
-      $id = get_posts($args)[0];
+
+      $posts = get_posts($args);
+      $id = count($posts) > 0 ? $posts[0] : null;
       if ($id) {
         $url = get_post_meta($id, "url", true);
         if ($url) {
