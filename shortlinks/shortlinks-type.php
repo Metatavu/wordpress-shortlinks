@@ -28,4 +28,13 @@
       'supports' => ['title']
     ));
   });  
+
+  add_filter( 'wp_sitemaps_post_types', function ($post_types) {
+    if (isset($post_types['shortlink'])) {
+      unset($post_types['shortlink']);
+    }
+
+    return $post_types;
+  });
+  
 ?>
