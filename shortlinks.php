@@ -3,7 +3,7 @@
  * Created on Apr 22, 2022
  * Plugin Name: Shortlinks
  * Description: Plugin that allows shortlinks
- * Version: 1.0.4
+ * Version: 1.0.5
  * Author: Metatavu Oy
  */
 
